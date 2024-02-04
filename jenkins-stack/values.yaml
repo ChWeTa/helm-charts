@@ -130,7 +130,7 @@ sonarqube:
   postgresql:
     # Enable to deploy the PostgreSQL chart
     enabled: false
-postgresql:
+postgres:
   enabled: false
   architecture: standalone
   clusterDomain: cluster.local
