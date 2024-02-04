@@ -10,7 +10,7 @@ dependencies:
     condition: sonarqube.enabled
     version: 8.0.0+463
     repository: https://SonarSource.github.io/helm-chart-sonarqube
-  - name: postgres
+  - name: postgresql
     condition: postgres.enabled
     version: 12.1.7
     repository: https://charts.bitnami.com/bitnami
