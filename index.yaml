@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  nfs_csi:
+  - apiVersion: v2
+    created: "2025-01-17T22:09:51.283477378Z"
+    digest: ea2992cc5cf59df30bc02f4bcd71cc5fa148ad45fabc37c54a6e907421e4e3c0
+    name: nfs_csi
+    urls:
+    - https://github.com/ChWeTa/helm-charts/releases/download/nfs_csi-1.0.0/nfs_csi-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-01-17T22:09:51.283487928Z"
